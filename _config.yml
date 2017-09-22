@@ -7,9 +7,8 @@ exclude:
   - "LICENSE.md"
   - "*.gemspec"
 
-
 # Site settings
-title: Gusto Pharma
+title: "Gusto Pharma"
 subtitle: "Medicine and instruments supplier"
 baseurl: ""
 cover: "/assets/cover.png"
